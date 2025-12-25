@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LOVE BOMB",
+  "base_artist": "Fromis 9",
+  "createdAt": "2025-12-25T01:21:18.483220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/01_Love_Bomb_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/02_Love_Bomb_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "Grinderman",
+      "has_synced": true,
+      "path": "select/03_Love_Bomb_Grinderman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/04_Love_Bomb_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/05_Love_Bomb_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bora Bora 2000/Love Bomb",
+      "artist": "The Tubes",
+      "has_synced": false,
+      "path": "select/06_Bora_Bora_2000_Love_Bomb_The_Tubes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bora Bora 2000 \u0000 Love Bomb",
+      "artist": "The Tubes",
+      "has_synced": false,
+      "path": "select/07_Bora_Bora_2000_\u0000_Love_Bomb_The_Tubes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/08_Love_Bomb_AC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Bomb Baby",
+      "artist": "Tigertailz",
+      "has_synced": true,
+      "path": "select/09_Love_Bomb_Baby_Tigertailz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOVE BOMB",
+      "artist": "fromis_9",
+      "has_synced": true,
+      "path": "select/10_LOVE_BOMB_fromis_9.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Bomb Baby - Live",
+      "artist": "Tigertailz",
+      "has_synced": false,
+      "path": "select/11_Love_Bomb_Baby_-_Live_Tigertailz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "Kevin Sharp",
+      "has_synced": false,
+      "path": "select/12_Love_Bomb_Kevin_Sharp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "Nick Cave & Grinderman",
+      "has_synced": false,
+      "path": "select/13_Love_Bomb_Nick_Cave_&_Grinderman.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "2WEI feat. Joznez, Kataem & Marvin Brooks",
+      "has_synced": true,
+      "path": "select/14_Love_Bomb_2WEI_feat._Joznez,_Kataem_&_Marvin_Brooks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Bomb",
+      "artist": "2WEI/Joznez/Kataem/Marvin Brooks",
+      "has_synced": true,
+      "path": "select/15_Love_Bomb_2WEI_Joznez_Kataem_Marvin_Brooks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE BOMB",
+      "artist": "fromis_9",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_BOMB_fromis_9.txt"
+    }
+  ]
+}
